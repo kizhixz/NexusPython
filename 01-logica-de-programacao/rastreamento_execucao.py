@@ -1,5 +1,4 @@
 """
-Arquivo: rastreamento_execucao.py
 Descrição: Estruturas em tempo de execução e rastreamento de código
 """
 

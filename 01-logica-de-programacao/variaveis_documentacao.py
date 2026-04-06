@@ -1,5 +1,4 @@
 """
-Arquivo: variaveis_documentacao.py
 Descrição: Documentação completa sobre variáveis em Python
 """
 

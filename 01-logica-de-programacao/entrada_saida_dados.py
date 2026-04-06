@@ -1,5 +1,4 @@
 """
-Arquivo: entrada_saida_dados.py
 Descrição: Documentação sobre entrada e saída de dados em Python
 """
 
