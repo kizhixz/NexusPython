@@ -7,6 +7,27 @@ Aqui está a base necessária para entender como um programa funciona antes de a
 
 ---
 
+# 📂 Estrutura do Módulo
+
+## 📁 conceitos-basicos/
+- **variaveis.py**: Documentação completa sobre variáveis em Python
+- **strings.py**: Documentação aprofundada sobre strings em Python
+
+## 📁 entrada-saida/
+- **entrada_saida.py**: Documentação sobre entrada e saída de dados em Python
+
+## 📁 estruturas/
+- **condicionais.py**: Documentação sobre estruturas condicionais em Python
+- **repeticao.py**: Documentação sobre estruturas de repetição em Python
+
+## 📁 execucao/
+- **rastreamento.py**: Estruturas em tempo de execução e rastreamento de código
+
+## 📁 exercicios/
+- **exercicio_001.py** a **exercicio_100.py**: 100 arquivos de exercícios para prática
+
+---
+
 # 📂 Conteúdo do Módulo
 
 ## 🔹 Variáveis
