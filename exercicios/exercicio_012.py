@@ -1,6 +1,1 @@
-# Exercício 12: Escreva um programa que...
-
-# Este é um exercício de exemplo.
-# Implemente a solução aqui.
-
-print(f"Exercício 12 executado!")
+﻿# Exercício 012\n# Escreva sua solução aqui\n\n

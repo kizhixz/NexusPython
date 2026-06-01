@@ -1,6 +1,1 @@
-# Exercício 72: Escreva um programa que...
-
-# Este é um exercício de exemplo.
-# Implemente a solução aqui.
-
-print(f"Exercício 72 executado!")
+﻿# Exercício 072\n# Escreva sua solução aqui\n\n
